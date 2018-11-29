@@ -17,12 +17,13 @@ table 50100 "Building Key"
                         NLD = 'Sleutel code';
             DataClassification = ToBeClassified;
         }
-        field(3; User; Code[20])
+        field(3; User; Code[30])
         {
             CaptionML = ENU = 'User',
                         NLD = 'Gebruiker';
             DataClassification = ToBeClassified;
-            TableRelation = User;
+            //TableRelation = User;
+
 
         }
         field(4; "Issue date"; Date)
