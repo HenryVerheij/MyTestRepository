@@ -3,7 +3,8 @@ page 50100 "Building Key List"
 
     PageType = List;
     SourceTable = "Building Key";
-    Caption = 'Building Key List';
+    CaptionML = ENU = 'Building Keys',
+                NLD = 'Gebouwsleutel';
     ApplicationArea = All;
     UsageCategory = Lists;
 
