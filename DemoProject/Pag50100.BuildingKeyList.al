@@ -4,9 +4,10 @@ page 50100 "Building Key List"
     PageType = List;
     SourceTable = "Building Key";
     CaptionML = ENU = 'Building Keys',
-                NLD = 'Gebouwsleutel';
+                NLD = 'Gebouwsleutels';
     ApplicationArea = All;
     UsageCategory = Lists;
+    Editable = true;
 
     layout
     {

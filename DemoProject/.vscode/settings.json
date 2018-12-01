@@ -1,5 +1,0 @@
-{
-    "CRS.FileNamePattern": "<ObjectTypeShort><ObjectId>.<ObjectNameShort>.al",
-    "gitlens.blame.avatars": true,
-    "gitlens.blame.compact": true
-}
